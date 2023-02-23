@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio/static/css/main.20935ece.css",
+    "main.js": "/Personal-Portfolio/static/js/main.db5266b1.js",
+    "static/js/787.fb771931.chunk.js": "/Personal-Portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/pranav.png": "/Personal-Portfolio/static/media/pranav.82ee2433e9f89d2d0287.png",
+    "static/media/vector2.png": "/Personal-Portfolio/static/media/vector2.9ac4074002e27744f69c.png",
+    "static/media/prj1.png": "/Personal-Portfolio/static/media/prj1.118cd0db23641c0bc898.png",
+    "static/media/prj5.png": "/Personal-Portfolio/static/media/prj5.af1ba7540bd0df26ce98.png",
+    "static/media/prj6.png": "/Personal-Portfolio/static/media/prj6.8b75260ba5e764615a86.png",
+    "static/media/prj2.jpg": "/Personal-Portfolio/static/media/prj2.603b569c6df76d5bdfcb.jpg",
+    "static/media/prj3.jpg": "/Personal-Portfolio/static/media/prj3.e76b91b5ffbd8abc81f4.jpg",
+    "static/media/wave3.png": "/Personal-Portfolio/static/media/wave3.426c95327ffe1aa39bff.png",
+    "static/media/prj4.jfif": "/Personal-Portfolio/static/media/prj4.3ade933e441079fb0378.jfif",
+    "static/media/shape.png": "/Personal-Portfolio/static/media/shape.1511f1b019e98c3c0785.png",
+    "static/media/java.png": "/Personal-Portfolio/static/media/java.2904c55e73966b7d3ca0.png",
+    "static/media/vector1.png": "/Personal-Portfolio/static/media/vector1.24c05c2939f54db2d4ce.png",
+    "static/media/html.png": "/Personal-Portfolio/static/media/html.e6f8051cc67cef7bc030.png",
+    "static/media/php.png": "/Personal-Portfolio/static/media/php.8613262dd3e5941aaf3f.png",
+    "static/media/react.png": "/Personal-Portfolio/static/media/react.e5969c790e5d2f634bc4.png",
+    "static/media/ml.png": "/Personal-Portfolio/static/media/ml.053b497b2cbe90e3ba73.png",
+    "static/media/python.png": "/Personal-Portfolio/static/media/python.f09a15889329fd8c7107.png",
+    "static/media/sql.png": "/Personal-Portfolio/static/media/sql.e57b25d18d3609468796.png",
+    "index.html": "/Personal-Portfolio/index.html",
+    "main.20935ece.css.map": "/Personal-Portfolio/static/css/main.20935ece.css.map",
+    "main.db5266b1.js.map": "/Personal-Portfolio/static/js/main.db5266b1.js.map",
+    "787.fb771931.chunk.js.map": "/Personal-Portfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20935ece.css",
+    "static/js/main.db5266b1.js"
+  ]
+}
